@@ -1,5 +1,5 @@
 <h1 align="center">Hey folk! I'm Keshav Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <!-- <h2 align="center">Inventing Wonders to Foster the Future!</h2> -->
 
